@@ -1,0 +1,5 @@
+CREATE TABLE t_eto(
+     NID         INT(2)
+    ,CNAME_J     VARCHAR(20)
+    ,CNAME_V     VARCHAR(20)
+);

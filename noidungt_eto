@@ -1,0 +1,83 @@
+insert into t_eto(
+    NID, CNAME_J, CNAME_V
+)
+values(
+    0, 'saru', 'con khi'
+);
+
+insert into t_eto(
+    NID, CNAME_J, CNAME_V
+)
+values(
+    1, 'tori', 'con ga'
+);
+
+insert into t_eto(
+    NID, CNAME_J, CNAME_V
+)
+values(
+    2, 'inu', 'con cun'
+);
+
+insert into t_eto(
+    NID, CNAME_J, CNAME_V
+)
+values(
+    3, 'inoshishi', 'con heo'
+);
+
+insert into t_eto(
+    NID, CNAME_J, CNAME_V
+)
+values(
+    4, 'nezumi', 'con chuot'
+);
+
+insert into t_eto(
+    NID, CNAME_J, CNAME_V
+)
+values(
+    5, 'ushi', 'con trau'
+);
+
+insert into t_eto(
+    NID, CNAME_J, CNAME_V
+)
+values(
+    6, 'tora', 'con ho'
+);
+
+insert into t_eto(
+    NID, CNAME_J, CNAME_V
+)
+values(
+    7, 'usagi', 'con meo'
+);
+
+insert into t_eto(
+    NID, CNAME_J, CNAME_V
+)
+values(
+    8, 'ryu', 'con rong'
+);
+
+insert into t_eto(
+    NID, CNAME_J, CNAME_V
+)
+values(
+    9, 'hebi', 'con ran'
+);
+
+insert into t_eto(
+    NID, CNAME_J, CNAME_V
+)
+values(
+    10, 'uma', 'con ngua'
+);
+
+insert into t_eto(
+    NID, CNAME_J, CNAME_V
+)
+values(
+    11, 'hitsuji', 'con de'
+);

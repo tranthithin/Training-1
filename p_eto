@@ -1,0 +1,6 @@
+DELIMITER //
+CREATE PROCEDURE p_eto (IN id INT)
+BEGIN
+select CNAME_J, CNAME_V from t_eto where NID = id;
+END //
+DELIMITER ;
